@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community  
+faiss-cpu
+sentence-transformers
+torch
+transformers
+accelerate
+hf_xet
