@@ -1,4 +1,4 @@
-# 🧠 Personalised AI Study Buddy
+#  Personalised AI Study Buddy
 
 This is a Retrieval-Augmented Generation (RAG) system built with LangChain and Streamlit to answer complex questions using a private knowledge base of university lecture notes and textbooks.
 
